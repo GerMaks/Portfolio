@@ -10,6 +10,9 @@ My Portfolio
 <li>
 <a href='https://www.network-olympus.com/' target='_blank'> Network-olympus </a>
 </li>
+  <li>
+<a href='http://softinventive.wb-dv.com/' target='_blank'> softinventive </a>
+</li>
 <li>
 <a href='https://legardin.ua/' target='_blank'> LeGardin </a>
 </li>
