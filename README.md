@@ -1,6 +1,9 @@
 # Portfolio
 My Portfolio
 <ul>
+    <li>
+<a href='http://sof.mil.gov.ua/' target='_blank'>sof </a>
+</li>
   <li>
 <a href='https://www.novarobota.ua/' target='_blank'>Novarobota.ua/ </a>
 </li>
